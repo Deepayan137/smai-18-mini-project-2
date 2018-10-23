@@ -77,17 +77,14 @@ scikit-learn, etc_
 
 2. Try to come up with your own method and techniques to obtain the best accuracy. Click on the link to view the [details](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130) of results obtained so far, on the CIFAR-10 dataset. Here are a bunch of examples that you can try.
 
-    1. _Take number of layers of a neural network. Can you study
-       on how the number of layers affect the model's learning and argue why
-       it's happening, based on your learning so far?_
 
-    2. _Is there any advantage to using an MLP as a feature extractor and
+    1. _Is there any advantage to using an MLP as a feature extractor and
        using an SVM for the final classification, instead of using linear
        classification by the last linear layer with softmax?_
 
-    3. _Vary kernels, which one gets you better results? Why?_
+    2. _Vary kernels, which one gets you better results? Why?_
 
-    4. Vary the number of pricipal componets.
+    3. _Vary the number of pricipal componets._
 
 3. Please avoid plagirism. As mentioned above you can use external libraries. The focus is to learn how to use them, understand their documentation, vary the parameters etc. Coding required in this project is minimal. Try to be orignal and come up with novel solutions.
 
