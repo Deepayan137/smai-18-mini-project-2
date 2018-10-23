@@ -40,9 +40,7 @@ Use implementations from standard libraries.
 ## Deliverables
 
 *  A technical report with graphs/tables and detailed technical 
-discussions.
-
-* Sample Table
+discussions.Sample Table
 
 | Classifier | Features            | Accuracy | F1-score |
 |------------|---------------------|----------|----------|
