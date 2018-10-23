@@ -92,3 +92,11 @@ scikit-learn, etc_
   4. Vary the number of pricipal componets.
 
 3. Please avoid plagirism. As mentioned above you can use external libraries. The focus is to learn how to use them, understand their documentation, vary the parameters etc. The coding required is minimal. Try to be orignal and come up with novel solutions.
+
+4. If you are using the starter code then you need to have the following:
+	
+	1. python 3.5 or above
+	2. scikit learn
+	3. tqdm
+
+	You can do a simple pip install to download sklearn and tqdm. 
