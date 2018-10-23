@@ -89,7 +89,7 @@ scikit-learn, etc_
 
     4. Vary the number of pricipal componets.
 
-3. Please avoid plagirism. As mentioned above you can use external libraries. The focus is to learn how to use them, understand their documentation, vary the parameters etc. The coding required is minimal. Try to be orignal and come up with novel solutions.
+3. Please avoid plagirism. As mentioned above you can use external libraries. The focus is to learn how to use them, understand their documentation, vary the parameters etc. Coding required in this project is minimal. Try to be orignal and come up with novel solutions.
 
 4. If you are using the starter code then you need to have the following:
 	
